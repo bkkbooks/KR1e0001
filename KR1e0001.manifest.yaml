@@ -1,0 +1,285 @@
+canonical_identifier: bkk:krp/KR1e0001/v1
+canonical_location: https://kanripo.org/bkk/KR1e0001/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 春秋左傳
+  identifiers:
+    krp: KR1e0001
+  tags:
+    kr-categories: KR1e
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    - tr-fr
+    - tr-zh
+    tls-dates: dat08120
+  source:
+    repository: tls-texts
+    path: data/tls/KR1e0001.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR1e0001_001.yaml, hash: 'sha256:c18e4fe911ff0619e8e44a69c1f86481b0ddb9e842697ec7e21aee1bfbe2e54f'}
+  - {seq: 2, filename: KR1e0001_002.yaml, hash: 'sha256:3c8a4dcb7e095b9e8cf7f62f1a24842378a5e11faf8e25b566bc574cef0aeb0a'}
+  - {seq: 3, filename: KR1e0001_003.yaml, hash: 'sha256:d4aedcb9d4370df7a19b10de630d6acbcbc40187bdf3370b0681b55ed1f84501'}
+  - {seq: 4, filename: KR1e0001_004.yaml, hash: 'sha256:50e119b393b7a9754c5ae00420f7aec4b7ea27d223563aaaaf48c0c571fe6f0c'}
+  - {seq: 5, filename: KR1e0001_005.yaml, hash: 'sha256:7554a3a9631ca1a570a7635f20c91a281deaa3a6dcc3e1153bb89e7b15c33061'}
+  - {seq: 6, filename: KR1e0001_006.yaml, hash: 'sha256:653c9892de51405b15387158d5fe8d91614ddb593a9a9ef7f8eda59cd96832bd'}
+  - {seq: 7, filename: KR1e0001_007.yaml, hash: 'sha256:67d02154b0bff95b78f08f71fff974d54310ba6c669b883feccc3bbaab52c76c'}
+  - {seq: 8, filename: KR1e0001_008.yaml, hash: 'sha256:a26bb084f0ebefe5a5f57f2db89b59413784b167f1a4d762535e557feaed5fd0'}
+  - {seq: 9, filename: KR1e0001_009.yaml, hash: 'sha256:5bd44753ccfd40e90418ac4d419bc1ca7bb7cb4ee2524e52e2b9f32b824a922e'}
+  - {seq: 10, filename: KR1e0001_010.yaml, hash: 'sha256:7e09c758b049c4e1999cb3626f5524117482e9ac40d9013b9728d0ba13aeec5b'}
+  - {seq: 11, filename: KR1e0001_011.yaml, hash: 'sha256:552c605e4006992f7324e5496c3e9192dbac972c3a7e307709c8cbbd47a66fb3'}
+  - {seq: 12, filename: KR1e0001_012.yaml, hash: 'sha256:4cfc39f27a486bad8d887336e424f3e54d26853065dc8f7fff94700da6f97d0f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1e0001_001.markers.yaml, hash: 'sha256:3c22a240ce53227919e7af08243617d0c53676ce22518d56d42a9b059ec3e8f7'}
+  - {seq: 2, role: markers, filename: assets/KR1e0001_002.markers.yaml, hash: 'sha256:974cb15f9084ea1a99468683bab79225e6942519bc653dfffb60286032244dc3'}
+  - {seq: 3, role: markers, filename: assets/KR1e0001_003.markers.yaml, hash: 'sha256:12e847b0e54820991908f2ab40de993304aace4c2b2d2b6da2207f3d0b6266e1'}
+  - {seq: 4, role: markers, filename: assets/KR1e0001_004.markers.yaml, hash: 'sha256:8517b90232ba2aaae2495131d3e28ef05b2fdfeff195e78416136481dae99b8c'}
+  - {seq: 5, role: markers, filename: assets/KR1e0001_005.markers.yaml, hash: 'sha256:f349cda509f79bd73e5189e7ce505e198d4a06607db82e5504737da36d2d2a07'}
+  - {seq: 6, role: markers, filename: assets/KR1e0001_006.markers.yaml, hash: 'sha256:deeffbafee751e60599d27b39aa6b0fba076ff02ed293521d62870cb3ca14b85'}
+  - {seq: 7, role: markers, filename: assets/KR1e0001_007.markers.yaml, hash: 'sha256:2c720e9c53c19c86b598b5f2a970154af1a7fe220233d34f6b3047fd5252400f'}
+  - {seq: 8, role: markers, filename: assets/KR1e0001_008.markers.yaml, hash: 'sha256:c45ee6a2a87520b13f10e56037b44df7b022e175dd18156394787b194c9f1d87'}
+  - {seq: 9, role: markers, filename: assets/KR1e0001_009.markers.yaml, hash: 'sha256:ce5fc49b19d48753cc0cb5b9e3f49191b7886715486f047380f10d7b855c9648'}
+  - {seq: 10, role: markers, filename: assets/KR1e0001_010.markers.yaml, hash: 'sha256:e181e495fb741a91c856453745adb708402356721cdddfb19b5f71d3714e39e5'}
+  - {seq: 11, role: markers, filename: assets/KR1e0001_011.markers.yaml, hash: 'sha256:16a6205ca8bccd04dd04b54a99e6272a9aab4cb9e364c61f4a25765bf3eed811'}
+  - {seq: 12, role: markers, filename: assets/KR1e0001_012.markers.yaml, hash: 'sha256:5afc9657e9c3697746db50a6daa8c4bedb8d2dc2306b0471898bc892ddcbb063'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1e0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 5625
+  label: 隱公
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1e0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 隱公
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1e0001_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 5754
+  label: 桓公
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1e0001_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 桓公
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1e0001_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 7152
+  label: 莊公
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1e0001_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 莊公
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1e0001_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 1831
+  label: 閔公
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1e0001_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 閔公
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1e0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 19601
+  label: 僖公
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1e0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 僖公
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1e0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 11434
+  label: 文公
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1e0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 文公
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1e0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 10913
+  label: 宣公
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1e0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 宣公
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1e0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 17509
+  label: 成公
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1e0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 成公
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1e0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 41031
+  label: 襄公
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR1e0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 襄公
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR1e0001_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 48820
+  label: 昭公
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR1e0001_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 昭公
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR1e0001_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 10987
+  label: 定公
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR1e0001_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 定公
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR1e0001_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 17580
+  label: 哀公
+  type: section
+  level: 1
+hash: sha256:e1dd0232cbc7cdd76e8e46c475f1b62630bdc338e58bf151d5430a705fcca66a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
